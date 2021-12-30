@@ -17,5 +17,11 @@ from types import MethodWrapperType
 # message = "One of Python's strengths is its diverse community."
 # print(message)
 
-number_1, number_2, number_3 = 15, 25, 40
-print(number_1 + number_2 + number_3)
+# number_1, number_2, number_3 = 15, 25, 40
+# print(number_1 + number_2 + number_3)
+
+# figure_skaters = ['камила валиева', 'Александра Трусова', 'Анна Щербакова', 'Елизавета Туктамышева']
+# print(f"Первое место заняла {figure_skaters[-4].title()}")
+# print(f"Второе место заняла {figure_skaters[-3]}")
+#print(f"Третье место заняла {figure_skaters[-2]}")
+# print(f"Четвертое место заняла {figure_skaters[-1]}")
