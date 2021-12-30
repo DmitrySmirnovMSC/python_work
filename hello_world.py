@@ -16,3 +16,6 @@ from types import MethodWrapperType
 
 # message = "One of Python's strengths is its diverse community."
 # print(message)
+
+number_1, number_2, number_3 = 15, 25, 40
+print(number_1 + number_2 + number_3)
