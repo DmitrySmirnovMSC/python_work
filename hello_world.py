@@ -25,3 +25,19 @@ from types import MethodWrapperType
 # print(f"Второе место заняла {figure_skaters[-3]}")
 #print(f"Третье место заняла {figure_skaters[-2]}")
 # print(f"Четвертое место заняла {figure_skaters[-1]}")
+
+fruits = ['яблоко', 'апельсин', 'мандарин', 'грейпфрут']
+print(fruits)
+
+fruits[0] = 'груша'
+print(fruits)
+
+print(fruits[-1])
+fruits[-1] = 'хурма'
+print(fruits[-1])
+
+print(fruits)
+print(fruits[-1])
+fruits.append('гранат')
+print(fruits)
+print(fruits[-1])
